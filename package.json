@@ -4,7 +4,7 @@
   "description": "aula babel",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel src -d public --watch"
   },
   "keywords": [
     "aula",
